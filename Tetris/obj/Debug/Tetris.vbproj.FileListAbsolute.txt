@@ -1,0 +1,34 @@
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbprojAssemblyReference.cache
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.cache
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.xml
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+C:\Users\shbo5\source\repos\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\shbo5\source\repos\Tetris\Tetris\obj\Debug\Tetris.vbproj.ResolveComReference.cache
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\Tetris.exe
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\Tetris.xml
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\Interop.WMPLib.dll
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.vbprojAssemblyReference.cache
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.vbproj.ResolveComReference.cache
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.Resources.resources
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.cache
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.exe
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.xml
+C:\Users\Krishan Leong\Dropbox\2019 Backup\Leong\Coding - VB\repos\Tetris Sam Brandt\Tetris\obj\Debug\Tetris.pdb
